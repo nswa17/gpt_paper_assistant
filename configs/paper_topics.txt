@@ -1,6 +1,6 @@
  1. New theoretical findings about in-context learning and prompt engineering/prompt tuning and chain-of-thought prompting.
  2. Surprising results in the approximation theory of deep neural networks and transformers.
- 3. New experimental findigns on the internal mechanism of transformers and deep neural networks. 
+ 3. New experimental findigns on the internal mechanism of transformers or deep neural networks or other models. 
     - Relevant: papers that discuss how internal representations change along with the depth.
     - Not relevant: papers about adaptation to some task. Simply following instructions or inputs are not sufficient.
  3. New techniques in prompt engineering.
@@ -15,6 +15,6 @@
  6. Novel methods to deal with imbalanced data or spurious correlation.
     - Relevant: preferrably papers with theory. papers without theory must propose a strong empirical results that is generalizable in many domains.
 
- In suggesting papers to your friend, remember that he enjoys papers on theoretical understandings of machine learning algorithms.
- Your friend also likes learning about surprising empirical results in language models, as well as smart statistical tricks.
- He does not want to read papers that are about primarily applications of methods to specific domains.
+ In suggesting papers to your friend, remember that he enjoys papers on theoretically and empirically understandings of machine learning algorithms.
+ Your friend also likes learning about surprising empirical findings in general machine learning, as well as smart statistical tricks for theory.
+ He does not want to read papers that are about applications of existing methods to specific domains.
