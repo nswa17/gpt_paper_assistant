@@ -14,6 +14,7 @@
     - Not relevant: papers that study the rate of convergence to learn latent features.
  6. Novel methods to deal with imbalanced data or spurious correlation.
     - Relevant: preferrably papers with theory. papers without theory must propose a strong empirical results that is generalizable in many domains.
+ 7. A survey or review on popular techniques in machine learning, preferrably from theoretical perspective.
 
  In suggesting papers to your friend, remember that he enjoys papers on theoretically and empirically understandings of machine learning algorithms.
  Your friend also likes learning about surprising empirical findings in general machine learning, as well as smart statistical tricks for theory.
