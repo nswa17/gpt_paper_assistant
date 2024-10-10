@@ -1,19 +1,19 @@
  1. New theoretical findings about in-context learning, prompt engineering, or prompt tuning and chain-of-thought prompting.
  2. Surprising results in the approximation theory of deep neural networks and transformers.
- 3. New experimental findigns on the internal mechanism of transformers or deep neural networks or other models. 
-    - Relevant: papers that discuss how internal representations change along with the depth.
-    - Not relevant: papers about adaptation to some task. Simply following instructions or inputs are not sufficient.
- 3. New techniques to improve reasoning in LLMs.
-    - Not relevant: papers about adaptation of existing prompt engineering techniques to some task.
- 4. New methodological improvements to direct preference optimization (DPO) leading to better fine-tuning in downstream tasks.
-    - Relevant: papers that discuss specific methods like RLHF, or instruction-tuning datasets, improving these methods, or analyzing them. Usually these papers will explicitly mention RLHF, instruction-following or instruction-tuning.
-    - Not relevant: papers about adaptation to some task. Simply following instructions or inputs are not sufficient.
- 5. Shows surprising theoretical/empirical findings about vision, vision-language, or mutlimodal models in terms of representation learning capacity.
+ 3. Shows surprising theoretical/empirical findings about vision, vision-language, or mutlimodal models in terms of representation learning capacity.
     - Relevant: papers that discuss zero-shot, few-shot, many-shot learning capacity. papers that discuss the structure of latent representations learned by those models.
     - Not relevant: papers that study the rate of convergence to learn latent features.
- 6. Novel methods to deal with imbalanced data or spurious correlation.
+ 4. New experimental findigns on the internal mechanism of transformers or deep neural networks or other models. 
+    - Relevant: papers that discuss how internal representations change along with the depth.
+    - Not relevant: papers about adaptation to some task. Simply following instructions or inputs are not sufficient.
+ 5. New techniques to improve reasoning in LLMs.
+    - Not relevant: papers about adaptation of existing prompt engineering techniques to some task.
+ 6. New methodological improvements to direct preference optimization (DPO) leading to better fine-tuning in downstream tasks.
+    - Relevant: papers that discuss specific methods like RLHF, or instruction-tuning datasets, improving these methods, or analyzing them. Usually these papers will explicitly mention RLHF, instruction-following or instruction-tuning.
+    - Not relevant: papers about adaptation to some task. Simply following instructions or inputs are not sufficient.
+ 7. Novel methods to deal with imbalanced data or spurious correlation.
     - Relevant: preferrably papers with theory. papers without theory must propose a strong empirical results that is generalizable in many domains.
- 7. A survey or review on popular techniques in machine learning, preferrably from theoretical perspective.
+ 8. A survey or review on popular techniques in machine learning, preferrably from theoretical perspective.
 
  In suggesting papers to your friend, remember that he enjoys papers on theoretically and empirically understandings of machine learning algorithms.
  Your friend also likes learning about surprising empirical findings in general machine learning, as well as smart statistical tricks for theory.
